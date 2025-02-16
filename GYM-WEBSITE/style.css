@@ -1,0 +1,229 @@
+body{
+    background-color: black !important;
+    color:black;
+} 
+
+#HOMEPAGE{
+   padding: 2% 5% 2%;
+   background-color: black;
+}
+
+.navbar{
+  background-color: black;
+  padding: 1px 52px 1px 52px;
+  
+}
+
+.navbar-brand{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  font-weight: 400;
+  color: white !important; 
+
+}
+.nav-link{
+
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  font-weight: 400;
+  color: white !important; 
+
+}
+
+img{
+  width :100%;  
+  height: 100%;  
+}
+
+.text-overlay{
+    position: absolute;
+    color: lightgrey;
+    top: 140px;
+    left:120px;
+    font-size: 2.5rem;
+}
+
+.btn{
+  padding:2% 7% !important;
+}
+
+
+#Features{
+  text-align: center;
+  color: white;
+  background-color: black;
+  font-family: "Montserrat";
+  
+}
+
+.feat-h{
+  font-family: "Montserrat";  
+  margin-bottom: 118px;
+  font-size: 2.5rem;
+  font-weight: 900;
+  color: red;
+}
+
+#Features img{
+  border-radius: 50%;
+  width: 26%;
+  height: 26%;
+   margin-bottom: 22px;
+}
+
+.row{
+  line-height: 2;
+  font-size: small;
+  font-weight: bold;
+  color: red;
+  font-family: "Ubuntu";
+  padding:0 52px 0 52px;
+  text-align: center;
+
+}
+
+
+
+
+
+#Offers img{
+  max-width: 100%;
+  height: 10%;
+}
+
+
+.offerp{
+    position: absolute;
+    color: lightgrey;
+    top: 140px;
+    left:120px;
+    font-size: 2.5rem;
+    text-align:center;
+    top: 1720px;
+    left: 420px;
+}
+
+
+
+
+
+#LearnMore{
+  background-color: black; 
+  margin-top: 0px;
+  border-top-width: 12px;
+  padding-top: 112px;
+  padding-bottom: 100px;
+  padding-right: 32px;
+
+
+
+}
+
+#LearnMore img{
+  border-radius: 20%;
+}
+
+#LearnMore h1{
+  text-align: center !important;
+  font-size: 4rem;
+  line-height: 2;
+}
+
+#LearnMore p{
+  text-align: center !important;
+  font-size: 1.2rem !important;
+  font-weight: 400 !important;
+  color: white;
+}
+
+
+
+
+#cardpage{
+  margin:8% 0% 8%;
+}
+
+.card{
+  color: black;
+}
+
+#cardpage .row{
+  background: black;
+ 
+}
+
+#cardpageone h1{
+  color: red;
+  font-weight: 700;
+  line-height:1.5;
+  font-family: "Montserrat";
+  text-align: left;
+  margin-right: 62px;
+  margin-bottom: 50px;
+}
+#cardpageone p{
+  font-family: "Montserrat";
+  text-align: left;
+  font-size: 300;
+  color: white;
+}
+#cardpageone button{
+  text-align: left;
+  margin-right: 222px;
+  margin-top:12px;
+
+}
+
+#cardpagetwo img{
+  border-radius: 3%;
+  margin-left: 10px;
+  margin-right: 10px;
+  max-width: 80%;
+}
+
+
+
+#cardpagethree{
+  color: black;
+  background-color: black;
+}
+.card-body{
+  background-color: red;
+
+
+}
+
+.card-body h2{
+  color: black;
+  size: 1.5rem;
+  text-align: left;
+  font-weight: 700;
+}
+
+.card-body p{
+  color: white;
+  text-align: left;
+  font-family: "Calibri";
+  font-size: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+#Contact h1{
+  color: red;
+  margin-left: 42%;
+  margin-top: 20%;
+  font-size: 3.5rem;
+  font-weight: 900;
+  font-family: "Ubuntu";
+}
+
+
+
